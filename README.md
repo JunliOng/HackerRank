@@ -1,3 +1,3 @@
-# decryption
+# HackerRank
 
-HackerRank submission
+Challenge Submissions
